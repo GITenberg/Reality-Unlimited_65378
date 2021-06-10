@@ -1,0 +1,26 @@
+_repo: Reality-Unlimited_65378
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
+description: ''
+gutenberg_issued: '2021-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Motion pictures -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Reality Unlimited
+url: http://www.gutenberg.org/ebooks/65378
